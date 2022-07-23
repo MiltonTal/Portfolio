@@ -7,9 +7,9 @@ This is a portfolio of my ongoing and completed  projects, resume, and contact i
 The purpose of this project is so that potential employers can have access to samples of my. work. So that they may determine wether I’m a suitable candidate for open positions. 
 
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+[alt text](assets/images/screenshot.png)
+
 
 ## Credits
 https://github.com/MiltonTal
