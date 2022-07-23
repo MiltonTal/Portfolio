@@ -1,0 +1,16 @@
+header{
+    margin: 4px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+figure{
+
+}
+
+#name{
+    font-size: 100px;
+
+}
