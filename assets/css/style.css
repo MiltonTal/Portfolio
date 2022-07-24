@@ -46,10 +46,15 @@ nav{
 
 }
 
+#link{
+    display: flex;
+    justify-content: center;
+}
+
 #cheatphoto{
     height: auto;
     width: 80%;
-    align-items: center;
+    
 }
 
 #section-2{
