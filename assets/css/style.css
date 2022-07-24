@@ -143,7 +143,12 @@ footer{
     #section-1, #section-2, #section-3{
         width: 80%;
         font-size: larger;
-    }
+    }    
+}
 
+@media screen and (max-width:446px) {
+    #section-3{ font-size: small;
+
+    }
     
 }
