@@ -39,7 +39,7 @@ nav{
     align-items: center;
 }
 
-#snippit-photo {
+#snippit{
     display: flex;
     flex-direction: column;
     align-items: center;
