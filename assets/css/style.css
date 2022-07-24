@@ -116,6 +116,10 @@ footer{
 }
 
 @media screen and (max-width:768px) {
+    body{
+        font-size: 100%;
+    }
+
     header{
         display: flex;
         flex-direction: column;
@@ -123,7 +127,7 @@ footer{
     }
 
     #name{
-        font-size: 50px;
+        font-size: 30px;
     }
     
     ul{
@@ -133,6 +137,12 @@ footer{
 
     li{
         padding: 13px;
+        width: 100%;
+    }
+
+    #section-1, #section-2, #section-3{
+        width: 80%;
+        font-size: larger;
     }
 
     
