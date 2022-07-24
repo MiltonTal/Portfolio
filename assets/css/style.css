@@ -35,6 +35,12 @@ nav{
     align-items: center;
 }
 
+#snippit-photo {
+    display: flex;
+    flex-direction: column;
+
+}
+
 #section-2{
     font-size: 40px;
     height: auto;
